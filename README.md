@@ -59,5 +59,5 @@ vvp ram_tb.vvp
 gtkwave dump.vcd
 
 OUTPUT:-
-
+<img width="1823" height="527" alt="Image" src="https://github.com/user-attachments/assets/3710231e-3c55-4ebf-82c5-1a1b3f818f60" />
 
